@@ -1,0 +1,95 @@
+html,body {
+    background: #000;
+/* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(black,white);
+/* For Safari */
+    background: -o-linear-gradient(black,white);
+/* For Opera */
+    background: -moz-linear-gradient(black,white);
+/* For Firefox */
+    background: linear-gradient(black,white);
+/* Standard syntax */
+}
+
+.nav-pills>li>a {
+    color: #fff;
+}
+
+.nav-pills>li>a:hover {
+    background-color: transparent;
+}
+
+.navbar {
+    background-color: #000;
+    margin-bottom: 0;
+    position: relative;
+}
+
+.banner {
+    background-color: transparent;
+}
+
+blockquote {
+    border-left-color: white;
+    padding: 20px;
+}
+
+h1,blockquote {
+    text-: bold;
+    text-align: center;
+    color: #fff;
+}
+
+#thumbnail1,#thumbnail2,#thumbnail3,#thumbnail4 {
+    margin-top: 20px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#empty {
+    display: none;
+    background-color: transparent;
+}
+
+.caption-black-text {
+    color: #000;
+    text-align: center;
+}
+
+.caption-white-text {
+    color: #fff;
+    text-align: center;
+}
+
+.black-text {
+    color: #000;
+}
+
+# myportfolio {
+    border-bottom: 5px solid #000;
+}
+
+.social-media-buttons {
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.contact-me {
+    text-align: center;
+}
+
+.free-code-camp {
+    background-color: #006400;
+    color: #fff;
+}
+
+.linked-in {
+    background-color: #0077b5;
+    color: #fff;
+}
+
+.github {
+    background-color: #000;
+    color: #fff;
+}
